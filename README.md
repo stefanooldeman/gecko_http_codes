@@ -10,3 +10,4 @@ This script ran every 2 hours for over 2 years and because of the python pickle 
 
 Here how the graph looked at the time of writing
 
+![An example of data graphed with highcharts](example-graph.png?raw=true)
